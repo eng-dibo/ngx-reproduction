@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ngx-reproduction-b4a56": {
+      "hosting": {
+        "ngx": [
+          "ngx-reproduction-b4a56"
+        ]
+      }
+    }
+  }
+}
